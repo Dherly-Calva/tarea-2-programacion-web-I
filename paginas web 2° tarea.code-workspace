@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../paginas web 2° tarea"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "tarea de programacion Web 2",
+		"liveServer.settings.port": 5501
+	}
+}
